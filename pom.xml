@@ -7,7 +7,7 @@
     <groupId>com.skangayam</groupId>
     <artifactId>version-test</artifactId>
     <packaging>pom</packaging>
-    <version>20160731153100-SNAPSHOT</version>
+    <version>20160731153100</version>
     <modules>
         <module>modules/mod-a</module>
     </modules>
